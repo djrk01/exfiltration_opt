@@ -1,5 +1,3 @@
-Open In Editor
-
 #!/bin/bash
 
 # Obfuscate the email address using base64 encoding
